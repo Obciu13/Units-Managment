@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Documents\\GitHub\\Units-Managment\\UnitsManagment\\Source\\UnitsManagment\\UnitsManagment.Build.cs",
+		"D:\\Documents\\GitHub\\Units-Managment\\UnitsManagment\\Source\\UnitsManagment.Target.cs",
+		"D:\\Documents\\GitHub\\Units-Managment\\UnitsManagment\\Source\\UnitsManagmentEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.1"
+}

@@ -1,0 +1,11 @@
+D:\Documents\GitHub\Units-Managment\UnitsManagment\Intermediate\Build\Win64\UE4Editor\Development\UnitsManagment\Definitions.UnitsManagment.h
+D:\Documents\GitHub\Units-Managment\UnitsManagment\Source\UnitsManagment\UnitsManagmentGameModeBase.h
+D:\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\Documents\GitHub\Units-Managment\UnitsManagment\Intermediate\Build\Win64\UE4Editor\Inc\UnitsManagment\UnitsManagmentGameModeBase.generated.h
+D:\Documents\GitHub\Units-Managment\UnitsManagment\Source\UnitsManagment\RTSPlayerController.h
+D:\Documents\GitHub\Units-Managment\UnitsManagment\Intermediate\Build\Win64\UE4Editor\Inc\UnitsManagment\RTSPlayerController.generated.h
+D:\Documents\GitHub\Units-Managment\UnitsManagment\Source\UnitsManagment\RTSPlayerSpectatorPawn.h
+D:\Documents\GitHub\Units-Managment\UnitsManagment\Intermediate\Build\Win64\UE4Editor\Inc\UnitsManagment\RTSPlayerSpectatorPawn.generated.h

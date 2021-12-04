@@ -1,0 +1,19 @@
+D:\Documents\GitHub\Units-Managment\UnitsManagment\Intermediate\Build\Win64\UE4Editor\Development\UnitsManagment\Definitions.UnitsManagment.h
+D:\Documents\GitHub\Units-Managment\UnitsManagment\Source\UnitsManagment\EnemyBase.h
+D:\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+D:\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+D:\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+D:\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+D:\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+D:\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+D:\Documents\GitHub\Units-Managment\UnitsManagment\Intermediate\Build\Win64\UE4Editor\Inc\UnitsManagment\EnemyBase.generated.h
+D:\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/CapsuleComponent.h
+D:\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+D:\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+D:\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CapsuleComponent.generated.h
+D:\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/SphereComponent.h
+D:\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SphereComponent.generated.h
+D:\Documents\GitHub\Units-Managment\UnitsManagment\Source\UnitsManagment\UnitBase.h
+D:\Documents\GitHub\Units-Managment\UnitsManagment\Source\UnitsManagment\BulletBase.h
+D:\Documents\GitHub\Units-Managment\UnitsManagment\Intermediate\Build\Win64\UE4Editor\Inc\UnitsManagment\BulletBase.generated.h
+D:\Documents\GitHub\Units-Managment\UnitsManagment\Intermediate\Build\Win64\UE4Editor\Inc\UnitsManagment\UnitBase.generated.h

@@ -1,0 +1,9 @@
+D:\Documents\GitHub\Units-Managment\UnitsManagment\Intermediate\Build\Win64\UE4Editor\Development\UnitsManagment\Definitions.UnitsManagment.h
+D:\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Documents\GitHub\Units-Managment\UnitsManagment\Source\UnitsManagment/UnitsManagmentGameModeBase.h
+D:\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\Documents\GitHub\Units-Managment\UnitsManagment\Intermediate\Build\Win64\UE4Editor\Inc\UnitsManagment\UnitsManagmentGameModeBase.generated.h

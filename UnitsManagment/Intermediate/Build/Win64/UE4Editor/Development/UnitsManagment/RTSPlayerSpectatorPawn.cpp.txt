@@ -1,0 +1,5 @@
+D:\Documents\GitHub\Units-Managment\UnitsManagment\Intermediate\Build\Win64\UE4Editor\Development\UnitsManagment\Definitions.UnitsManagment.h
+D:\Documents\GitHub\Units-Managment\UnitsManagment\Source\UnitsManagment\RTSPlayerSpectatorPawn.h
+D:\Documents\GitHub\Units-Managment\UnitsManagment\Intermediate\Build\Win64\UE4Editor\Inc\UnitsManagment\RTSPlayerSpectatorPawn.generated.h
+D:\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
+D:\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraComponent.generated.h

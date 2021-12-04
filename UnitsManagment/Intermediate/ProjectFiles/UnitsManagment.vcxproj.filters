@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\UnitsManagment.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{3E45F2B7-805D-49CC-90B0-F74CDD51EF43}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UnitsManagment.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UnitsManagmentEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{4261A374-73CF-4742-8F6D-4D35232BFE89}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\UnitsManagment">
+      <UniqueIdentifier>{8CC63233-6C23-412D-8C61-7F3E4F9F55CE}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UnitsManagment\BulletBase.cpp">
+      <Filter>Source\UnitsManagment</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnitsManagment\BulletBase.h">
+      <Filter>Source\UnitsManagment</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UnitsManagment\EnemyBase.cpp">
+      <Filter>Source\UnitsManagment</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnitsManagment\EnemyBase.h">
+      <Filter>Source\UnitsManagment</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UnitsManagment\RTSPlayerController.cpp">
+      <Filter>Source\UnitsManagment</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnitsManagment\RTSPlayerController.h">
+      <Filter>Source\UnitsManagment</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UnitsManagment\RTSPlayerSpectatorPawn.cpp">
+      <Filter>Source\UnitsManagment</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnitsManagment\RTSPlayerSpectatorPawn.h">
+      <Filter>Source\UnitsManagment</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UnitsManagment\UnitBase.cpp">
+      <Filter>Source\UnitsManagment</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnitsManagment\UnitBase.h">
+      <Filter>Source\UnitsManagment</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\UnitsManagment\UnitsManagment.Build.cs">
+      <Filter>Source\UnitsManagment</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\UnitsManagment\UnitsManagment.cpp">
+      <Filter>Source\UnitsManagment</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnitsManagment\UnitsManagment.h">
+      <Filter>Source\UnitsManagment</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UnitsManagment\UnitsManagmentGameModeBase.cpp">
+      <Filter>Source\UnitsManagment</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnitsManagment\UnitsManagmentGameModeBase.h">
+      <Filter>Source\UnitsManagment</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

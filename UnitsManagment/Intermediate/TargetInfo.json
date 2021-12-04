@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UnitsManagment",
+			"Path": "D:\\Documents\\GitHub\\Units-Managment\\UnitsManagment\\Source\\UnitsManagment.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UnitsManagmentEditor",
+			"Path": "D:\\Documents\\GitHub\\Units-Managment\\UnitsManagment\\Source\\UnitsManagmentEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
